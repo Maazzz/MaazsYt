@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MaazsYt/static/css/main.bebc06d9.chunk.css",
+    "main.js": "/MaazsYt/static/js/main.804eed81.chunk.js",
+    "main.js.map": "/MaazsYt/static/js/main.804eed81.chunk.js.map",
+    "runtime-main.js": "/MaazsYt/static/js/runtime-main.83dd16d4.js",
+    "runtime-main.js.map": "/MaazsYt/static/js/runtime-main.83dd16d4.js.map",
+    "static/js/2.4c6190b6.chunk.js": "/MaazsYt/static/js/2.4c6190b6.chunk.js",
+    "static/js/2.4c6190b6.chunk.js.map": "/MaazsYt/static/js/2.4c6190b6.chunk.js.map",
+    "static/js/3.1f627e97.chunk.js": "/MaazsYt/static/js/3.1f627e97.chunk.js",
+    "static/js/3.1f627e97.chunk.js.map": "/MaazsYt/static/js/3.1f627e97.chunk.js.map",
+    "index.html": "/MaazsYt/index.html",
+    "static/css/main.bebc06d9.chunk.css.map": "/MaazsYt/static/css/main.bebc06d9.chunk.css.map",
+    "static/js/2.4c6190b6.chunk.js.LICENSE.txt": "/MaazsYt/static/js/2.4c6190b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83dd16d4.js",
+    "static/js/2.4c6190b6.chunk.js",
+    "static/css/main.bebc06d9.chunk.css",
+    "static/js/main.804eed81.chunk.js"
+  ]
+}
